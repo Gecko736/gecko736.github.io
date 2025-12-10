@@ -2,12 +2,12 @@
 	"android": {
 		"latest": { "version": "0.1", "date": "2025-12-09 16:52" },
 		"minimum": { "version": "0.1", "date": "2025-12-09 16:52" },
-		"storeLink": ""
+		"storeLink": "https://play.google.com/store/apps/details?id=com.apple.android.music"
 	},
 	"ios": {
 		"latest": { "version": "0.1", "date": "2025-12-09 16:52" },
 		"minimum": { "version": "0.1", "date": "2025-12-09 16:52" },
-		"storeLink": ""
+		"storeLink": "https://apps.apple.com/us/app/apple-music/id1108187390"
 	},
 	"privacyPolicy": 1
 }
