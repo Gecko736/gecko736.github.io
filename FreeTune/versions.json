@@ -1,5 +1,11 @@
 {
-	"latest": { "version": "0.1", "date": "2025-12-09 16:52" },
-	"minimum": { "version": "0.1", "date": "2025-12-09 16:52" },
+	"android": {
+		"latest": { "version": "0.1", "date": "2025-12-09 16:52" },
+		"minimum": { "version": "0.1", "date": "2025-12-09 16:52" }
+	},
+	"ios": {
+		"latest": { "version": "0.1", "date": "2025-12-09 16:52" },
+		"minimum": { "version": "0.1", "date": "2025-12-09 16:52" }
+	},
 	"privacyPolicy": 1
 }
