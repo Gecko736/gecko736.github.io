@@ -1,0 +1,16 @@
+{
+	"android": [
+		{
+			"version": "0.1",
+			"date": "2025-12-09 16:52",
+			"new": [
+				"feature #1",
+				"feature #2"
+			],
+			"fixed": [
+				"fix #1",
+				"fix #2"
+			]
+		}
+	]
+}
